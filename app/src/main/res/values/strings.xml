@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text calculator</string>
+    <string name="btn_calculate_caption">Calculate</string>
+
+</resources>
